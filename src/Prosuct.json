@@ -1,0 +1,17 @@
+{
+    "Products":[
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item1.PNG"},
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item2.PNG"},
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item3.PNG"},
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item4.PNG"},
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item5.PNG"},
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item6.PNG"},
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item7.PNG"},
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item8.PNG"},
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item9.PNG"},
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item10.PNG"},
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item11.PNG"},
+        {"title":"Leatt Pro Jacket","text":"$550.00","image":"item12.PNG"}
+
+    ]
+}
